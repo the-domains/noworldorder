@@ -1,7 +1,7 @@
 name: No World Order
 favicon: null
-layout_spectrum: 0.6721553653478622
-typography_spectrum: 0.9431389716919512
+layout_spectrum: 0.99998
+typography_spectrum: 0.6828
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.8277128846384585
-  lightness: 0.6499642522539943
-  saturation: 0.0674363193102181
+    - '#000000'
+    - '#e8dd9a'
+    - '#7e837d'
+    - '#282d27'
+    - '#a91400'
+  brandStrength: 0.75
+  lightness: 0
+  saturation: 0.5
   rhythmicContrast: 0.9162804051302373
 purpose: []
